@@ -1,0 +1,15 @@
+name: 'Social Comment'
+description: 'Provides default comment type and related configuration'
+type: module
+core_version_requirement: ^9
+dependencies:
+  - drupal:comment
+  - group:group
+  - social:activity_creator
+  - social:social_core
+package: Social
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

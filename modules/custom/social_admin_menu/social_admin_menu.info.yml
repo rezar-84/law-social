@@ -1,0 +1,14 @@
+name: Social Admin Menu
+type: module
+description: Social Admin Menu enhancements.
+core_version_requirement: ^9
+package: Social
+dependencies:
+  - drupal:toolbar
+  - admin_toolbar:admin_toolbar
+  - gin_toolbar:gin_toolbar
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

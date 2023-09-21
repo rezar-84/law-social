@@ -1,0 +1,12 @@
+name: 'Social Profile Preview'
+description: 'Provides a modal window to display profile details.'
+type: module
+core_version_requirement: ^9
+package: Social (experimental)
+dependencies:
+  - social:social_profile
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

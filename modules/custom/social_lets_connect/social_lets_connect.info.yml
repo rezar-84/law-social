@@ -1,0 +1,10 @@
+name: 'Social Lets Connect'
+type: module
+description: 'Adds a link to https://www.getopensocial.com in the admin menu.'
+core_version_requirement: ^9
+package: 'Social Lets Connect'
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

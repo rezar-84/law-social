@@ -1,0 +1,14 @@
+name: 'Social Group Members Export'
+description: 'Adds ability to export group members to a CSV.'
+type: module
+core_version_requirement: ^9
+package: Social
+dependencies:
+  - social:social_group
+  - social:social_group_gvbo
+  - social:social_user_export
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

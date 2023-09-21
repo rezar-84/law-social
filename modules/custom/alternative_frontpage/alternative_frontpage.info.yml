@@ -1,0 +1,13 @@
+name: 'Alternative Frontpage'
+description: 'Provides an alternative frontpage option for authenticated users via redirect.'
+type: module
+core_version_requirement: ^9
+configure: entity.alternative_frontpage.collection
+dependencies:
+  - drupal:user
+  - social:social_core
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

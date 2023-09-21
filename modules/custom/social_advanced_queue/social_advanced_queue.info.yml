@@ -1,0 +1,14 @@
+name: Social Advanced Queue
+type: module
+description: Social queue enhancements using the advanced queue modules.
+core_version_requirement: ^9
+package: Social
+dependencies:
+  - advancedqueue:advancedqueue
+  - social:activity_creator
+  - ultimate_cron:ultimate_cron
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

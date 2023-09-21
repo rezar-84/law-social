@@ -1,0 +1,13 @@
+name: 'Social Branding'
+description: 'Extends the GraphQL API with branding information for this Open Social platform.'
+type: module
+core_version_requirement: ^9
+dependencies:
+  # Remove this dependency when we have an accessible test environment.
+  - social:social_graphql
+package: Social (Experimental)
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

@@ -1,0 +1,13 @@
+name: 'Social Event Max Enroll'
+description: 'Allow setting the maximum participant number for events.'
+type: module
+core_version_requirement: ^9
+configure: social_event_max_enroll.settings
+dependencies:
+  - social:social_event
+package: Social
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

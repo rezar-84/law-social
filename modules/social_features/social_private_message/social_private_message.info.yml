@@ -1,0 +1,15 @@
+name: Social Private Message
+type: module
+description: Allow users to send private messages to each other
+core_version_requirement: ^9
+package: Social
+dependencies:
+  - private_message:private_message
+  - private_message_notify:private_message_notify
+  - social:social_editor
+  - social:social_profile
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

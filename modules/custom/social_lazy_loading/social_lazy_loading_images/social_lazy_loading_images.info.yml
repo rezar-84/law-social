@@ -1,0 +1,12 @@
+name: 'Social Lazy Loading Image'
+type: module
+description: 'Module for lazy loading images using the blazy library.'
+core_version_requirement: ^9
+package: Social
+dependencies:
+  - drupal:lazy
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

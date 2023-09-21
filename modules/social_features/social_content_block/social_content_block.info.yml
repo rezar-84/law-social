@@ -1,0 +1,18 @@
+name: Social Content Block
+type: module
+description: A custom block to generate a list of content dynamically according to specific filters.
+core_version_requirement: ^9
+package: Social
+dependencies:
+  - drupal:block
+  - drupal:link
+  - drupal:options
+  - field_group:field_group
+  - social_tagging:social_tagging
+  - social:social_core
+  - social:social_group_flexible_group
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

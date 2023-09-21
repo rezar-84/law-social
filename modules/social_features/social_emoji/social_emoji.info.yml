@@ -1,0 +1,11 @@
+name: 'Social Emoji'
+description: 'Provides an emoji picker functionality for Open Social.'
+type: module
+core_version_requirement: ^9
+package: Social (experimental)
+lifecycle: experimental
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

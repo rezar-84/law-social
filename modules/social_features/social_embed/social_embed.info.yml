@@ -1,0 +1,15 @@
+name: Social Embed
+type: module
+description: Module for embedding social media links. Currently in an experimental stage. NOTE, This module is a work in progress and has some serious peformance issues still.
+core_version_requirement: ^9
+package: Social
+dependencies:
+  - embed:embed
+  - url_embed:url_embed
+  - social:social_editor
+  - social:social_user
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

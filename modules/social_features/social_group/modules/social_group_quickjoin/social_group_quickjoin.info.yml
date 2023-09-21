@@ -1,0 +1,12 @@
+name: 'Social Group Quickjoin'
+description: 'Allows users to skip confirmation when joining a group.'
+type: module
+core_version_requirement: ^9
+dependencies:
+- social:social_group
+package: Social
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

@@ -1,0 +1,12 @@
+name: Social Ajax Comments
+type: module
+description: Integration with Ajax Comments.
+core_version_requirement: ^9
+package: Social
+dependencies:
+  - ajax_comments:ajax_comments
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

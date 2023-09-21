@@ -1,0 +1,15 @@
+name: 'Social Follow Taxonomy Term'
+description: 'Provides "Follow Term" flag type and related functionality.'
+type: module
+core_version_requirement: ^9
+dependencies:
+  - social:activity_logger
+  - social:social_user
+  - drupal:views
+  - flag:flag
+package: Social (experimental)
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

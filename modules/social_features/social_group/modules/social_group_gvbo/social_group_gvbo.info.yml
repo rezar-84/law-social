@@ -1,0 +1,13 @@
+name: 'Social Group VBO integration with Groups and Open Social'
+description: 'Adds ability to act on Group Content.'
+type: module
+core_version_requirement: ^9
+package: Social
+dependencies:
+  - social:social_group
+  - group:gvbo
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

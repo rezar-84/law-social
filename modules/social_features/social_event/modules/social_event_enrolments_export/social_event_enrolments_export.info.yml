@@ -1,0 +1,13 @@
+name: 'Social Event Enrolments Export'
+description: 'Adds ability to export event enrolments to a CSV.'
+type: module
+core_version_requirement: ^9
+package: Social
+dependencies:
+  - social:social_event
+  - social:social_user_export
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

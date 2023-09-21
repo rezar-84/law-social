@@ -1,0 +1,24 @@
+name: Activity Creator
+type: module
+description: Creates Activity Entities.
+core_version_requirement: ^9
+package: Custom
+dependencies:
+  - drupal:block_content
+  - drupal:comment
+  - dynamic_entity_reference:dynamic_entity_reference
+  - drupal:file
+  - group:group
+  - drupal:menu_link_content
+  - message:message
+  - drupal:node
+  - drupal:options
+  - profile:profile
+  - drupal:taxonomy
+  - drupal:user
+  - social:social_editor
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258

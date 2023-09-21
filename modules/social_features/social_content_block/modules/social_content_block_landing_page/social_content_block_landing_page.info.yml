@@ -1,0 +1,13 @@
+name: 'Social Content Block on Landing pages'
+description: 'Provides "Custom content list block" paragraphs type for landing pages.'
+type: module
+core_version_requirement: ^9
+dependencies:
+  - social:social_content_block
+  - social:social_landing_page
+package: Social
+
+# Information added by Drupal.org packaging script on 2023-09-18
+version: '11.10.1+0-dev'
+project: 'social'
+datestamp: 1695039258
